@@ -15,11 +15,9 @@ BountyHub Bot helps GitHub repository owners and maintainers streamline the proc
 - Supports any public GitHub repository
 - Helps manage and promote open-source project development
 
-## How to Add the Bot to Your Repository
+## Preventing bountyhub-bot from commenting on Your Repository
 
-1. Go to the [BountyHub Bot Installation Page](https://github.com/apps/bountyhub-bot).
-2. Select the repository where you want to install the bot.
-3. Follow the installation instructions to give the bot the necessary permissions.
+If you want to prevent bountyhub-bot from commenting your repository contact us at support@bountyhub.dev
 
 ## Example Comment
 
@@ -44,7 +42,7 @@ Once a bounty is claimed, the bounty creator can review the submitted pull reque
 
 ## Contact Us
 
-If you have any issues or suggestions, feel free to open an issue on this repository or reach out via our support on [BountyHub](https://bountyhub.dev).
+If you have any issues or suggestions, feel free reach out via our support on [BountyHub](https://bountyhub.dev) or via Email at support@bountyhub.dev.
 
 ---
 
